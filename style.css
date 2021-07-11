@@ -1,0 +1,11 @@
+h1{color:rgba(0, 0, 255, 0.801)}
+
+*{border:solid}
+
+.modoc{background-color: rgb(223, 85, 85);}
+
+.jarvis{
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly;
+}
